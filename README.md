@@ -1,6 +1,13 @@
-# BEVFusion 时序多帧融合项目
+</div>
+<div align="center">
 
-基于 PyTorch 1.10.2 + CUDA 11.3 的 BEVFusion 时序多帧融合环境
+[English](README.md) | 简体中文
+
+</div>
+
+# 基于时序多帧融合的多模态 3D 目标检测方法
+
+基于 [MMDetection3D](MMDetection3D_zh-CN.md) / BEVFusion 的时序多帧融合环境
 
 ## 📖 项目简介
 
@@ -22,7 +29,7 @@
 | cuDNN | 8 |
 | PyTorch | 1.11.0 |
 | Python | 3.8 |
-| MMDetection3D | 1.x |
+| MMDetection3D | 1.4 |
 | MMEngine | 0.10.0 |
 | MMCV | 2.0.0 |
 
